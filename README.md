@@ -1,4 +1,4 @@
-# 🍲 Site Receitas Deliciosas
+# 🍲 Site Delícias na Cozinha 
 
 Projeto **Front-End** desenvolvido como **Trabalho de Conclusão de Curso (TCC)** do programa **Jovens Programadoras do Senac**.
 
